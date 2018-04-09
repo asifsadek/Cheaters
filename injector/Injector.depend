@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1523289378 source:c:\users\sun\desktop\cheat\injector\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	<tlhelp32.h>
+
