@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1523376151 source:c:\users\sun\desktop\projects\cheats\dll\qq 2d billiards\log.c
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<string.h>
+	<time.h>
+	"log.h"
+
+1523373581 c:\users\sun\desktop\projects\cheats\dll\qq 2d billiards\log.h
+	<stdio.h>
+	<stdarg.h>
+
+1523390342 source:c:\users\sun\desktop\projects\cheats\dll\qq 2d billiards\main.cpp
+	"main.h"
+	"log.h"
+	"log.c"
+	<stdio.h>
+	<math.h>
+	<windows.h>
+
+1514140574 c:\users\sun\desktop\projects\cheats\dll\qq 2d billiards\main.h
+	<windows.h>
+
+1523376151 c:\users\sun\desktop\projects\cheats\dll\qq 2d billiards\log.c
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<string.h>
+	<time.h>
+	"log.h"
+
